@@ -1,0 +1,13 @@
+{
+	"black": "[30m",
+ 	"blue": "[34m",
+    "grey": "[37m",
+    "default": "[38m",
+	"white": "[97m",
+    "red": "[91m",
+    "green": "[92m",
+    "yellow": "[93m",
+    "blue": "[94m",
+    "magenta": "[95m",
+    "cyan": "[96m"
+}

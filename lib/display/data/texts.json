@@ -1,0 +1,74 @@
+{
+  "es": {
+    "home": {
+      "header": "BOTONERA",
+      "button": "[%s] ----------- %s",
+      "add": "[%s] ----------- Agregar boton",
+      "remove": "[%s] ----------- Eliminar boton",
+      "quit": "[%s] ----------- Salir",
+      "switch": "[%s] ----------- Cambiar de modo",
+      "other": "MISCELANEOS",
+      "single_mode": {
+        "true": "MODO SINGLE",
+        "false": "MODO FREE"
+      }
+    },
+    "add": {
+      "step_0": "=> Agregando boton <=",
+      "step_1": "1. Letra: ",
+      "step_2": "2. Descripcion: ",
+      "step_3": "3. Ubicacion del archivo mp3:",
+      "invalid_char": "NO! La letra ingresada ya esta asignada o es una letra especial",
+      "invalid_sound": "NO! El archivo ingresado es invalido o no existe",
+      "copy": "Hacer una copia del archivo?",
+      "another": "Agregar otro boton?",
+      "success": "Boton agregado correctamente!"
+    },
+    "remove": {
+      "step_0": "=> Eliminando boton <=",
+      "step_1": "1. Letra:  ",
+      "step_2": "2. Borrar [%s] - %s?",
+      "invalid_char": "La letra ingresada no es valida o no es un boton",
+      "another": "Eliminar otro boton?",
+      "success": "Boton eliminado correctamente!"
+    },
+    "yes": "si ----------- %s",
+    "no":  "no ----------- %s"
+  },
+  "en": {
+    "home": {
+      "header": "BOTONERA",
+      "button": "[%s] ----------- %s",
+      "add": "[%s] ----------- Add button",
+      "remove": "[%s] ----------- Remove button",
+      "quit": "[%s] ----------- Quit",
+      "switch": "[%s] ----------- Switch mode",
+      "other": "OTHERS",
+      "single_mode": {
+        "true": "SINGLE MODE",
+        "false": "FREE MODE"
+      }
+    },
+    "add": {
+      "step_0": "=> Adding button <=",
+      "step_1": "1. Key:  ",
+      "step_2": "2. Description:  ",
+      "step_3": "3. Path to mp3 file:",
+      "invalid_char": "The input key is already taken",
+      "invalid_sound": "The file path is invalid or can't be found",
+      "copy": "Make a copy of the sound file?",
+      "another": "Add another button?",
+      "success": "Button successfully added!"
+    },
+    "remove": {
+      "step_0": "=> Removing button <=",
+      "step_1": "1. Key: ",
+      "step_2": "2. Remove [%s] - %s?",
+      "invalid_char": "The input key is invalid or isn't a button",
+      "another": "Remove another button?",
+      "success": "Button successfully removed!"
+    },
+    "yes": "yes ----------- %s",
+    "no":  "no ----------- %s"
+  }
+}
